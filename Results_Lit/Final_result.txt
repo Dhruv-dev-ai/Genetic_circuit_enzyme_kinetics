@@ -1,0 +1,30 @@
+TEM-1 Substrate Comparative Analysis
+====================================
+
+| Substrate      | k_cat (s^-1) | Final Titer (g/L)   |
+|----------------|--------------|---------------------|
+| Penicillin_G   | 50           | 2889384.2940        |
+| Ampicillin     | 25           | 1328490.9638        |
+| Amoxicillin    | 20           | 1106929.8709        |
+| Cephalothin    | 14           | 738542.6816         |
+| Nitrocefin     | 125          | 6848324.0665        |
+| Cefazolin      | 7.5          | 369279.2960         |
+| Cefuroxime     | 1.25         | 69850.3047          |
+| Cefotaxime     | 0.05         | 2694.6252           |
+
+Ranked by Final Titer
+=====================
+
+| Rank | Substrate    | k_cat (s^-1) | Final Titer (g/L)   |
+|------|--------------|--------------|---------------------|
+| 1    | Nitrocefin   | 125          | 6848324.0665        |
+| 2    | Penicillin_G | 50           | 2889384.2940        |
+| 3    | Ampicillin   | 25           | 1328490.9638        |
+| 4    | Amoxicillin  | 20           | 1106929.8709        |
+| 5    | Cephalothin  | 14           | 738542.6816         |
+| 6    | Cefazolin    | 7.5          | 369279.2960         |
+| 7    | Cefuroxime   | 1.25         | 69850.3047          |
+| 8    | Cefotaxime   | 0.05         | 2694.6252           |
+
+Note:
+The repeated entries in the raw output indicate the script was run multiple times. The table above keeps one clean entry per substrate.
